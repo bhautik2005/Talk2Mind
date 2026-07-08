@@ -1,0 +1,26 @@
+MODEL 1 — Text (Embedding + BiLSTM + ANN)
+
+Epoch 1/15
+66/66 ━━━━━━━━━━━━━━━━━━━━ 56s 561ms/step - accuracy: 0.6818 - auc: 0.6880 - loss: 0.6326 - val_accuracy: 0.6879 - val_auc: 0.6897 - val_loss: 0.3936
+Epoch 2/15
+66/66 ━━━━━━━━━━━━━━━━━━━━ 34s 452ms/step - accuracy: 0.7355 - auc: 0.7076 - loss: 0.3692 - val_accuracy: 0.6879 - val_auc: 0.7293 - val_loss: 0.3500
+Epoch 3/15
+66/66 ━━━━━━━━━━━━━━━━━━━━ 30s 452ms/step - accuracy: 0.7365 - auc: 0.7230 - loss: 0.3423 - val_accuracy: 0.6879 - val_auc: 0.7414 - val_loss: 0.3390
+Epoch 4/15
+66/66 ━━━━━━━━━━━━━━━━━━━━ 29s 433ms/step - accuracy: 0.7365 - auc: 0.7435 - loss: 0.3271 - val_accuracy: 0.6879 - val_auc: 0.7503 - val_loss: 0.3352
+Epoch 5/15
+66/66 ━━━━━━━━━━━━━━━━━━━━ 32s 483ms/step - accuracy: 0.7365 - auc: 0.7570 - loss: 0.3209 - val_accuracy: 0.6879 - val_auc: 0.7538 - val_loss: 0.3354
+Epoch 6/15
+66/66 ━━━━━━━━━━━━━━━━━━━━ 39s 452ms/step - accuracy: 0.7365 - auc: 0.7605 - loss: 0.3172 - val_accuracy: 0.6879 - val_auc: 0.7541 - val_loss: 0.3340
+Epoch 7/15
+66/66 ━━━━━━━━━━━━━━━━━━━━ 31s 476ms/step - accuracy: 0.7365 - auc: 0.7635 - loss: 0.3148 - val_accuracy: 0.6879 - val_auc: 0.7561 - val_loss: 0.3337
+Epoch 8/15
+66/66 ━━━━━━━━━━━━━━━━━━━━ 30s 450ms/step - accuracy: 0.7365 - auc: 0.7779 - loss: 0.3101 - val_accuracy: 0.6879 - val_auc: 0.7573 - val_loss: 0.3328
+Epoch 9/15
+66/66 ━━━━━━━━━━━━━━━━━━━━ 34s 519ms/step - accuracy: 0.7365 - auc: 0.7989 - loss: 0.3032 - val_accuracy: 0.6879 - val_auc: 0.7576 - val_loss: 0.3335
+Epoch 10/15
+66/66 ━━━━━━━━━━━━━━━━━━━━ 35s 420ms/step - accuracy: 0.7365 - auc: 0.8239 - loss: 0.2919 - val_accuracy: 0.6879 - val_auc: 0.7584 - val_loss: 0.3372
+Epoch 11/15
+66/66 ━━━━━━━━━━━━━━━━━━━━ 30s 449ms/step - accuracy: 0.7369 - auc: 0.8461 - loss: 0.2779 - val_accuracy: 0.6879 - val_auc: 0.7554 - val_loss: 0.3461
+Epoch 12/15
+66/66 ━━━━━━━━━━━━━━━━━━━━ 30s 450ms/step - accuracy: 0.7413 - auc: 0.8632 - loss: 0.2652 - val_accuracy: 0.6862 - val_auc: 0.7531 - val_loss: 0.3660
