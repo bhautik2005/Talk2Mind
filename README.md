@@ -9,15 +9,15 @@ The system uses deep learning models trained on robust datasets (**CMU-MOSEI**, 
 ## 📸 Project Screenshots
 
 ### App Overview & Wellness Dashboard
-![Talk2Mind Dashboard](project_img/Screenshot%202026-07-08%20185424.png)
+![Talk2Mind Dashboard](https://github.com/bhautik2005/Talk2Mind/blob/1fb6c4222172ae534642d6ea54f87bf3fa347ccd/project_img/Screenshot%202026-07-08%20185622.png)
 
 ### Multimodal Emotion Breakdown
-![Emotion Breakdown](project_img/Screenshot%202026-07-08%20185506.png)
+![Emotion Breakdown](https://github.com/bhautik2005/Talk2Mind/blob/1fb6c4222172ae534642d6ea54f87bf3fa347ccd/project_img/Screenshot%202026-07-08%20185638.png)
 
 ### Additional System Interfaces
-| Check-in Step & Visualizations | Training and Data Pipelines | Dataset Directory Structure |
+| Text Check-in Step  | Audio Check-in Step | Video Check-in Step |
 | :---: | :---: | :---: |
-| ![Voice and Video Inputs](project_img/Screenshot%202026-07-08%20185558.png) | ![Model Performance Plots](project_img/Screenshot%202026-07-08%20185622.png) | ![Dataset Organization](project_img/Screenshot%202026-07-08%20185638.png) |
+| ![Voice and Video Inputs](https://github.com/bhautik2005/Talk2Mind/blob/1fb6c4222172ae534642d6ea54f87bf3fa347ccd/project_img/Screenshot%202026-07-08%20185424.png) | ![Model Performance Plots](https://github.com/bhautik2005/Talk2Mind/blob/1fb6c4222172ae534642d6ea54f87bf3fa347ccd/project_img/Screenshot%202026-07-08%20185506.png	) | ![Dataset Organization](https://github.com/bhautik2005/Talk2Mind/blob/1fb6c4222172ae534642d6ea54f87bf3fa347ccd/project_img/Screenshot%202026-07-08%20185558.png) |
 
 ---
 
